@@ -1,0 +1,9 @@
+{
+    "version": "1.02.00",
+    "description": "Network performance testing tool with iperf3 compatibility",
+    "homepage": "https://github.com/jvv0/getbeetle",
+    "license": "MIT",
+    "url": "https://github.com/jvv0/getbeetle/releases/download/v1.02.00/beetle.exe",
+    "hash": "5C8AFB1DC45E4DDB0D6EDDAE3A7B1ADE165FA4D70DC95B1628ADB1EA71E18D63",
+    "bin": "beetle.exe"
+}

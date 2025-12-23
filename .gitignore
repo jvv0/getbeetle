@@ -3,19 +3,5 @@
 
 # But not these files
 !.gitignore
-!*.go
-!*.pdf
-!*.md
-!*.bat
-!go.mod
-!go.sum
-
-# Allow directories (so git can traverse into them)
-!*/
-
-# Ignore build outputs (even in subdirectories)
-*.exe
-*.exe~
-*.dll
-*.so
-*.dylib
+!beetle.json
+!README.md
